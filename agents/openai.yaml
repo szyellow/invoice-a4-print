@@ -1,0 +1,4 @@
+interface:
+  display_name: "发票 A4 合并打印"
+  short_description: "将本次指定的 PDF 发票上下拼版，每张 A4 两张，直接打印"
+  default_prompt: "使用 $invoice-a4-print，将我本次提供的 PDF 发票合并成每张 A4 上下两张的打印版。"
